@@ -1,0 +1,8 @@
+body {
+  overflow: hidden;
+}
+
+canvas {
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH4DrQ3VY-P3FrroGtWeXohl09XfCnEfNc4P1LkkXTj9Ra-6bE94rzzNfeEaax2sdVCMEaLJFroIvCXZUS_y-JCrjLoE2jH84gQjA70yBX1-ifP1bwR-7WVcxe2nVVAnlYLSnu7MspsZS6TxO_N3l0tUc83XqCAvUVrvaS1koWRm5e8SgZCYxhDvN2pdbf/s838/money_weak_yen_strong_dollar.png");
+  background-size: cover;
+}
